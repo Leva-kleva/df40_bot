@@ -82,7 +82,7 @@ def thread_spam() :
         currernt_datatime = datetime.now(pytz.timezone("Europe/Moscow"))
         tmp = currernt_datatime.strftime("%d %m %Y %H %M %S")
         d, m, Y, H, M, S = tmp.split()
-        remine_time = datetime(2019, 5, 19) - datetime(int(Y), int(m), int(d))
+        remine_time = datetime(2019, 5, 18) - datetime(int(Y), int(m), int(d))
         remine_time = int(str(remine_time).split()[0])
         if int(H) == 8 :
             for us in list(base.base.keys()) :
