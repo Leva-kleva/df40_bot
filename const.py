@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-token = "754698743:AAFC72Z2gqru0fR3xiJVQ95AcqtHB5d7akk"
+token = "805464654:AAGPkE307GHALTWkqePhapUENjCNVOZbTeE"
 
 random_mess = [
     "Давно тебя не было в Уличных гонках!",
